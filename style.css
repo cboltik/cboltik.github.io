@@ -2,26 +2,38 @@ body {
   background-color: #114; 
   color: #eaa; 
   font-family: sans-serif; 
-  margin: 32px;
-}
+  margin: 5% 10%;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+  }
 
 .name { 
   border-radius: 42px;
-  width: 285px;
   border: 4px solid ; 
-  padding: px;
-  margin-left: 105px;
+  margin-left: 20%;
+  margin-right: 20%;
+  text-align: center; 
   background: #eaa;
   color: #114;
   font-size: 19px; }
 
 .content{
-  margin-left: 55px
+  margin-left: px
    
 }
 
-.skill {outline-style: dotted; margin-left: 92px; margin-right: 222px}
+.skill {border-bottom: 1px dotted}
 
-.school {outline-style: dotted; margin-left: 143px; margin-right: 331px}
+.school {border-bottom: 1px dotted}
 
-.work {outline-style: dotted; margin-left: 104px; margin-right: 257px}
+.work {border-bottom: 1px dotted}
+
+
+.skills {outline-style: dotted; margin-left: 92px; margin-right: 222px}
+
+.schools {outline-style: dotted; margin-left: 143px; margin-right: 331px}
+
+.works {outline-style: dotted; margin-left: 104px; margin-right: 257px}
+
+.content {
+
